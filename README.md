@@ -1,7 +1,7 @@
 ## Projeto -> aulagit
 Projeto Aula Git
 
-# Principais comandos para comitar e dar o push no repoitório
+# Principais comandos para comitar e dar o push no repositório
 
 1. Foi criado o repositório no github com nome de aulagit
 2. Foi adicionado no projeto o repositorio remoto aula git
@@ -14,7 +14,7 @@ Projeto Aula Git
 
 4. Foi feito o push do branch master para o repostorio remoto origin
 
-- comando: git push origin master
+  - comando: git push origin master
 
 > Premissas adotadas: os arquivos utilizados haviam sido previamente preparados e comitados
 
