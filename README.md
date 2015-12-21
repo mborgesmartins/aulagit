@@ -22,3 +22,9 @@ Projeto Aula Git
 
 * 0.1.0 
 Versão inicial
+
+* 0.1.1
+  - Arquivo teste011.php criado
+  - teste2.txt modificado
+
+
