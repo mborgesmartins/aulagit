@@ -18,4 +18,7 @@ Projeto Aula Git
 
 > Premissas adotadas: os arquivos utilizados haviam sido previamente preparados e comitados
 
+# Release Notes
 
+* 0.1.0 
+Versão inicial
